@@ -1,6 +1,5 @@
 <pre>
-doing ml
-сybersecurity student @ hse
+doing ml / student @ hse
   
 contact me:
 - <a href="https://t.me/daspiridonov">telegram: @daspiridonov</a>
